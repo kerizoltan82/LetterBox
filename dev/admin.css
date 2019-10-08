@@ -1,0 +1,15 @@
+
+body
+{
+	padding: 2px;
+	background-image: url('res/wood_02.jpg');
+	background-color: #e8ffe8;
+    font-size: 12pt;
+	color: white;
+}
+
+div.div_newgame
+{
+    border: 2px solid #804000;
+	padding: 6px;
+}
